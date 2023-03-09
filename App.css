@@ -1,0 +1,14 @@
+.App {
+  text-align: center; 
+  display:flex;
+  flex-wrap: wrap; 
+  align-items: center; 
+
+} 
+.Fam{  
+  padding: 5px;;
+  border-radius: 50%; 
+  border:2px solid blue; 
+  margin:5px;
+}
+
